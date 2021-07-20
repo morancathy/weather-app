@@ -1,12 +1,13 @@
+import React from "react";
+import "./styles.css";
 
-import './styles.css';
+import WeatherForecast from "./WeatherForecast";
 
-function App() {
+export default function App(props) {
   return (
-    <div>
-      hello
+    <div className="App">
+      <h1>My WeatherIcons App</h1>
+      <WeatherForecast />
     </div>
   );
 }
-
-export default App;
