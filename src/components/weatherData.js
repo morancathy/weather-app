@@ -30,3 +30,28 @@ const weatherData = [
 ];
 
 export default weatherData;
+
+// const weatherData = [
+//   {
+//     conditions: "suny",
+//     time: "day"
+//   },
+//   {
+//     conditions: "clear",
+//     time: "day"
+//   },
+//   {
+//     conditions: "clear",
+//     time: "day"
+//   },
+//   {
+//     conditions: "party sunny",
+//     time: "night"
+//   },
+//   {
+//     conditions: "clear",
+//     time: "in the middle of the night"
+//   }
+// ];
+//
+// export default weatherData;
