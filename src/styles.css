@@ -27,6 +27,7 @@ section .weather {
   flex: 1;
   padding: 10px;
   text-align: center;
+  border: solid red;
 }
 
 .weather span {
